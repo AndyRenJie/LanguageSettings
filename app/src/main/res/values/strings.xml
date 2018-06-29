@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LanguageSettings</string>
+    <string name="str_cn">中文(简体)</string>
+    <string name="str_tw">中文(繁体)</string>
+    <string name="str_us">English</string>
+    <string name="str_kr">한국어.</string>
+    <string name="str_jp">日本語</string>
+
+    <string name="str_test">测试语言切换的文本数据</string>
+</resources>
