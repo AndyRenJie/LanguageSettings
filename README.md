@@ -4,4 +4,4 @@
 ![image](https://github.com/AndyRenJie/LanguageSettings/blob/master/image/20180628.gif)
 
 ###
-多国家语言的适配可以看我的博客https://blog.csdn.net/qq_20328181/article/details/78937727
+多国家语言的适配可以查看我的CSDN博客：https://blog.csdn.net/qq_20328181/article/details/78937727
